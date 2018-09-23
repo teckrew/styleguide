@@ -1,31 +1,4 @@
-/*
-Component
+// Import partial SCSS files
 
-Styleguide 1.0
-*/
-
-/*
-Sub Component
-
-markup:
-<div class="myComponent">
-	<h1>Title for the component</h1>
-</div>
-
-sg-wrapper:
-<section>
-	<sg-wrapper-content/>
-</section>
-
-Styleguide 1.1
-*/
-
-// Styles
-.myComponent {
-	background: red;
-	color: white;
-}
-
-.new-class {
-	background: yellow;
-}
+// Components
+@import "components/header";

@@ -1,1 +1,1 @@
-This is the Styleguide.
+This is the Styleguide overview file.
